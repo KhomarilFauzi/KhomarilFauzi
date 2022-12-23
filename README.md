@@ -47,13 +47,12 @@ Purbalingga, Central Java `Jul'2021 - Dec'2021`
 
 ---
 ### Connect with me:
-[![website](./img/twitter-dark.svg)](https://twitter.com/Khomaril_Fauzi)
+
+[![website](./img/instagram-dark.svg)](https://instagram.com/khomaril.fauzi)
 &nbsp;&nbsp;
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/khomaril-nur-fauzi-b6b26a25b)
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://instagram.com/khomaril.fauzi)
-&nbsp;&nbsp;
-[![website](./fb1.svg)](https://facebook.com/khomaril.fauzi.37)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Khomaril_Fauzi)
 &nbsp;&nbsp;
 
 [webdev]: https://github.com/KhomarilFauzi/KhomarilFauzi
