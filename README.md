@@ -47,17 +47,13 @@ Purbalingga, Central Java `Jul'2021 - Dec'2021`
 
 ---
 ### Connect with me:
-[![website](./img/twitter-light.svg)](https://twitter.com/Khomaril_Fauzi#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Khomaril_Fauzi#gh-dark-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Khomaril_Fauzi)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/khomaril-nur-fauzi-b6b26a25b#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/khomaril-nur-fauzi-b6b26a25b#gh-dark-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/khomaril-nur-fauzi-b6b26a25b)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/khomaril.fauzi#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/khomaril.fauzi#gh-dark-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/khomaril.fauzi)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/khomaril.fauzi#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/khomaril.fauzi#gh-dark-mode-only)
+[![website](./icons8-facebook-light.svg)](https://facebook.com/khomaril.fauzi.37#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 [webdev]: https://github.com/KhomarilFauzi/KhomarilFauzi
