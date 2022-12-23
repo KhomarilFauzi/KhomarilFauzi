@@ -17,7 +17,8 @@
 #### 1. Student Executive Board Jenderal Soedirman University 2022 | Staff of the Ministry Creative and Applicative Media | 
 Purwokerto, Central Java `Feb'2022 - Jan'2023`
    - Produce and publish audio visual content according to journalistic principles,
-   - Providing creative content to support educational activities, promotions, and publish through the media.
+   - Providing creative content to support educational activities, promotions, and publish through the media,
+   - Being the director at the time of video production to manage everyone's jobdesk.
 #### 2. Festival of Student Acceleration Jenderal Soedirman University 2022 | Staff of Design, Decoration, and Documentation |
 Purwokerto, Central Java `Apr'2022 - Nov'2022`
    - Make decorations for photo booth the event,
