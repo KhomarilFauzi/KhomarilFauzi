@@ -27,10 +27,14 @@ Purwokerto, Central Java `Apr'2022 - Nov'2022`
 Purbalingga, Central Java `Jul'2021 - Dec'2021`
    - Documenting the event,
    - Providing creative content to support event, promotion event and publish through the media.
-   
+## Achievments:
+#### 1. [3rd winner of Banjoemas Kota Lama Festival 2021 creation event](https://www.instagram.com/p/CVbUFDqBrtH/) 
+
 ## Portofolio:
 #### 1. [My Video Editing]()
 #### 2. [My Motion Editing]()
+
+
 
 ---
 ### Software:
