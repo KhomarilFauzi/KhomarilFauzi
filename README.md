@@ -2,7 +2,7 @@
 ## About me:
 - 🔭 I’m Electrical Engineering Students at Jenderal Soedirman University
 - 🌱 I’m currently learning Adobe Premiere and Adobe After Effect
-- 👯 I’m looking to collaborate as Content Creator
+- 👯 I’m looking to collaborate as Videographer, Editor, or Content Creator
 - 🤔 I’m interested in Video Editing and Motion Video Editing
 - 💬 Ask me about anything
 - 📫 How to reach me: khomarilnfauzi@gmail.com
