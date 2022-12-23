@@ -53,7 +53,7 @@ Purbalingga, Central Java `Jul'2021 - Dec'2021`
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://instagram.com/khomaril.fauzi)
 &nbsp;&nbsp;
-[![website](./icons8-facebook-light.svg)](https://facebook.com/khomaril.fauzi.37#gh-dark-mode-only)
+[![website](./fb.svg)](https://facebook.com/khomaril.fauzi.37)
 &nbsp;&nbsp;
 
 [webdev]: https://github.com/KhomarilFauzi/KhomarilFauzi
