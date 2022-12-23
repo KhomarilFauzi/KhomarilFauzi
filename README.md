@@ -24,11 +24,12 @@
 #### 3. Electrical Days 2021 | Festival of Student Acceleration Jenderal Soedirman University 2022 | Purbalingga `Jul'2021 - Dec'2021`
    - Documenting the event,
    - Providing creative content to support event, promotion event and publish through the media.
----
+   
 ## Portofolio:
 #### 1. [Video]()
 #### 2. [Motion]()
 
+---
 ### Languages and Tools:
 
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
