@@ -18,12 +18,12 @@
 Purwokerto, Central Java `Feb'2022 - Jan'2023`
    - Produce and publish audio visual content according to journalistic principles,
    - Providing creative content to support educational activities, promotions, and publish through the media.
-#### 2. Festival of Student Acceleration Jenderal Soedirman University 2022 | Festival of Student Acceleration Jenderal Soedirman University 2022 |
+#### 2. Festival of Student Acceleration Jenderal Soedirman University 2022 | Staff of Design, Decoration, and Documentation |
 Purwokerto, Central Java `Apr'2022 - Nov'2022`
    - Make decorations for photo booth the event,
    - Documenting the event,
    - Providing creative content to support event, promotion event and publish through the media.
-#### 3. Electrical Days 2021 | Festival of Student Acceleration Jenderal Soedirman University 2022 | 
+#### 3. Electrical Days 2021 | Staff of Design, Decoration, and Documentation | 
 Purbalingga, Central Java `Jul'2021 - Dec'2021`
    - Documenting the event,
    - Providing creative content to support event, promotion event and publish through the media.
