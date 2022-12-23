@@ -3,7 +3,7 @@
 - 🔭 I’m Electrical Engineering Students at Jenderal Soedirman University
 - 🌱 I’m currently learning Adobe Premiere and Adobe After Effect
 - 👯 I’m looking to collaborate as Content Creator
-- 🤔 I’m looking for suggest for Video Editing and Video Motion
+- 🤔 I’m interested in Video Editing and Video Motion
 - 💬 Ask me about anything
 - 📫 How to reach me: khomarilnfauzi@gmail.com
 
@@ -14,23 +14,26 @@
 #### 3. [SMP Negeri 1 Banyumas](https://smpn1banyumas.sch.id/) | Banyumas `2014-2017`
 
 ## Organisational Experience:
-#### 1. Student Executive Board Jenderal Soedirman University 2022 | Staff of the Ministry Creative and Applicative Media | Purwokerto `Feb'2022 - Jan'2023`
+#### 1. Student Executive Board Jenderal Soedirman University 2022 | Staff of the Ministry Creative and Applicative Media | 
+Purwokerto, Central Java `Feb'2022 - Jan'2023`
    - Produce and publish audio visual content according to journalistic principles,
    - Providing creative content to support educational activities, promotions, and publish through the media.
-#### 2. Festival of Student Acceleration Jenderal Soedirman University 2022 | Festival of Student Acceleration Jenderal Soedirman University 2022 | Purwokerto `Apr'2022 - Nov'2022`
+#### 2. Festival of Student Acceleration Jenderal Soedirman University 2022 | Festival of Student Acceleration Jenderal Soedirman University 2022 |
+Purwokerto, Central Java `Apr'2022 - Nov'2022`
    - Make decorations for photo booth the event,
    - Documenting the event,
    - Providing creative content to support event, promotion event and publish through the media.
-#### 3. Electrical Days 2021 | Festival of Student Acceleration Jenderal Soedirman University 2022 | Purbalingga `Jul'2021 - Dec'2021`
+#### 3. Electrical Days 2021 | Festival of Student Acceleration Jenderal Soedirman University 2022 | 
+Purbalingga, Central Java `Jul'2021 - Dec'2021`
    - Documenting the event,
    - Providing creative content to support event, promotion event and publish through the media.
    
 ## Portofolio:
-#### 1. [Video]()
-#### 2. [Motion]()
+#### 1. [My Video Editing]()
+#### 2. [My Motion Editing]()
 
 ---
-### Languages and Tools:
+### Software:
 
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
@@ -44,19 +47,15 @@
 
 ---
 ### Connect with me:
-
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/khomaril.fauzi#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/khomaril.fauzi#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/Khomaril_Fauzi#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Khomaril_Fauzi#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/khomaril-nur-fauzi-b6b26a25b#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/khomaril-nur-fauzi-b6b26a25b#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
 
 
-
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://github.com/KhomarilFauzi/KhomarilFauzi
