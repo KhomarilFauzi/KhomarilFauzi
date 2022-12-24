@@ -63,7 +63,7 @@ Purbalingga, Central Java `Jul'2021 - Dec'2021`
 ## Achievments:
 #### 1. [3rd winner of Banjoemas Kota Lama Festival 2021 creation event](https://www.instagram.com/p/CVbUFDqBrtH/) 
 
-## Portofolio:
+## Portfolio:
 #### 1. [My Video Editing](https://drive.google.com/drive/folders/13dT2_ze9YKIXPoawDuj3Jh1MU1jwz4ER?usp=sharing)
 #### 2. [My Motion Editing](https://drive.google.com/drive/folders/1uMSqKuMxAfbUE5RCx1nBgNhj5978fCO6?usp=sharing)
 
