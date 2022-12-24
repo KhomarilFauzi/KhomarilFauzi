@@ -16,8 +16,8 @@
 ## Organisational Experience:
 #### 1. Student Executive Board Jenderal Soedirman University 2022 | Staff of the Ministry Creative and Applicative Media | 
 Purwokerto, Central Java `Feb'2022 - Jan'2023`
-   - Produce and publish audio visual content according to journalistic principles,
-   - Providing creative content to support educational activities, promotions, and publish through the media,
+   - Produce and publish audio visual content according to journalistic principles
+   - Providing creative content to support educational activities, promotions, and publish through the media
 #### Project:
    - Motion editor BEM Unsoed logo 2022
    - Cameraman Teaser Release Kabinet BEM Unsoed 2022 
@@ -39,17 +39,17 @@ Purwokerto, Central Java `Feb'2022 - Jan'2023`
    - Video editor BEM UNSOED REWIND 2022 : KABINET TITIK PIJAR
 #### 2. Festival of Student Acceleration (FOSA) Jenderal Soedirman University 2022 | Staff of Design, Decoration, and Documentation |
 Purwokerto, Central Java `Apr'2022 - Nov'2022`
-   - Make decorations for photo booth the event,
-   - Documenting the event,
-   - Providing creative content to support event, promotion event and publish through the media.
+   - Make decorations for photo booth the event
+   - Documenting the event
+   - Providing creative content to support event, promotion event and publish through the media
 #### Project:
    - Motion editor FOSA 2022 logo, mascot, and teaser
    - Cameraman and video editor ABOUT FOSA : FOSA ITU APASIH? 
    - Video editor FOSA 2022 videotron 
 #### 3. Electrical Days 2021 | Staff of Design, Decoration, and Documentation | 
 Purbalingga, Central Java `Jul'2021 - Dec'2021`
-   - Documenting the event,
-   - Providing creative content to support event, promotion event and publish through the media.
+   - Documenting the event
+   - Providing creative content to support event, promotion event and publish through the media
 #### Project
    - Director, cameraman, and video editor Electrical Days 2021 Teaser
 
