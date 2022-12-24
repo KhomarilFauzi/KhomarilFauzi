@@ -18,12 +18,36 @@
 Purwokerto, Central Java `Feb'2022 - Jan'2023`
    - Produce and publish audio visual content according to journalistic principles,
    - Providing creative content to support educational activities, promotions, and publish through the media,
-   - Being the director at the time of video production to manage everyone's jobdesk.
-#### 2. Festival of Student Acceleration Jenderal Soedirman University 2022 | Staff of Design, Decoration, and Documentation |
+##### Project:
+   - as a motion editor for BEM Unsoed logo 2022
+   - as a cameraman for the BEM Unsoed 2022 Cabinet Release Teaser 
+   - as a cameraman for Unsoed Campus Tour 2022 
+   - as director and cameraman for Ngabuburit Worth It Berburu Takjil Favorit | EKSKUL#2 
+   - as a video editor for Opini Kita : Suara Hati Mahasiswa Untuk Rektor Baru 
+   - as director, cameraman, audioperson, and video editor for 100 HARI KERJA BEM UNSOED 2022 KABINET TITIK PIJAR 
+   - as cameraman and motion editor for COMPANY PROFILE BEM UNSOED 2022: KABINET TITIK PIJAR 
+   - as director and audioperson Teaser Sehari Jadi Warga Kementerian | SEJIWA #0 
+   - as director, cameraman, and video editor for Sehari Jadi Warga Kementerian Personalia - Lomba Tujuh Belasan | SEJIWA #1 
+   - as an audioperson for Sehari Jadi Warga Kementerian Riset dan Data - Apa Kata Responden | SEJIWA #2 
+   - as a video editor for #5UARA9ENSOED : SAMBUT 59 TAHUN UNSOED 
+   - as a cameraman for Sehari Jadi Warga Kementerian Dalam Negeri - Roadshow BEM UNSOED X BEM KBMIK | SEJIWA #3 
+   - as a cameraman for Sehari Jadi Warga Kementerian Pengembangan Sumber Daya Mahasiswa - SOLO 2022 | SEJIWA #5 
+   - as director, cameraman, and video editor for Sehari Jadi Warga Kementerian Ekonomi Kreatif Mahasiswa - Workshop Wirausaha | SEJIWA #8 
+   - as director, cameraman, and video editor for Sehari Jadi Warga Kementerian Minat dan Bakat - Opening Ceremony PORSOED 2022 | SEJIWA #9 
+   - as a cameraman for Sehari Jadi Warga Kementerian Sekretaris Kabinet - PINALA | SEJIWA #11 
+   - as director and video editor for Sehari Jadi Warga Kementerian Analisis Isu Strategis - Diskusi Publik HAKTP | SEJIWA #13
+   - as a video editor BEM UNSOED REWIND 2022 : KABINET TITIK PIJAR
+#### 2. Festival of Student Acceleration (FOSA) Jenderal Soedirman University 2022 | Staff of Design, Decoration, and Documentation |
 Purwokerto, Central Java `Apr'2022 - Nov'2022`
    - Make decorations for photo booth the event,
    - Documenting the event,
    - Providing creative content to support event, promotion event and publish through the media.
+##### Project:
+   - as a motion editor for FOSA 2022 logo
+   - as a motion editor for FOSA 2022 mascot
+   - as cameraman and video editor for ABOUT FOSA : FOSA ITU APASIH? 
+   - as a motion editor for Teaser FOSA 2022 
+   - as a video editor for Videotron FOSA 2022 
 #### 3. Electrical Days 2021 | Staff of Design, Decoration, and Documentation | 
 Purbalingga, Central Java `Jul'2021 - Dec'2021`
    - Documenting the event,
@@ -34,8 +58,6 @@ Purbalingga, Central Java `Jul'2021 - Dec'2021`
 ## Portofolio:
 #### 1. [My Video Editing](https://drive.google.com/drive/folders/13dT2_ze9YKIXPoawDuj3Jh1MU1jwz4ER?usp=sharing)
 #### 2. [My Motion Editing](https://drive.google.com/drive/folders/1uMSqKuMxAfbUE5RCx1nBgNhj5978fCO6?usp=sharing)
-
-
 
 ---
 ### Software:
