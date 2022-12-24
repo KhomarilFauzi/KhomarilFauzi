@@ -19,46 +19,44 @@ Purwokerto, Central Java `Feb'2022 - Jan'2023`
    - Produce and publish audio visual content according to journalistic principles,
    - Providing creative content to support educational activities, promotions, and publish through the media,
 #### Project:
-   - as a motion editor for BEM Unsoed logo 2022
-   - as a cameraman for the BEM Unsoed 2022 Cabinet Release Teaser 
-   - as a cameraman for Unsoed Campus Tour 2022 
-   - as director and cameraman for Ngabuburit Worth It Berburu Takjil Favorit | EKSKUL#2 
-   - as a video editor for Opini Kita : Suara Hati Mahasiswa Untuk Rektor Baru 
-   - as director, cameraman, audioperson, and video editor for 100 HARI KERJA BEM UNSOED 2022 KABINET TITIK PIJAR 
-   - as cameraman and motion editor for COMPANY PROFILE BEM UNSOED 2022: KABINET TITIK PIJAR 
-   - as director and audioperson Teaser Sehari Jadi Warga Kementerian | SEJIWA #0 
-   - as director, cameraman, and video editor for Sehari Jadi Warga Kementerian Personalia - Lomba Tujuh Belasan | SEJIWA #1 
-   - as an audioperson for Sehari Jadi Warga Kementerian Riset dan Data - Apa Kata Responden | SEJIWA #2 
-   - as a video editor for #5UARA9ENSOED : SAMBUT 59 TAHUN UNSOED 
-   - as a cameraman for Sehari Jadi Warga Kementerian Dalam Negeri - Roadshow BEM UNSOED X BEM KBMIK | SEJIWA #3 
-   - as a cameraman for Sehari Jadi Warga Kementerian Pengembangan Sumber Daya Mahasiswa - SOLO 2022 | SEJIWA #5 
-   - as director, cameraman, and video editor for Sehari Jadi Warga Kementerian Ekonomi Kreatif Mahasiswa - Workshop Wirausaha | SEJIWA #8 
-   - as director, cameraman, and video editor for Sehari Jadi Warga Kementerian Minat dan Bakat - Opening Ceremony PORSOED 2022 | SEJIWA #9 
-   - as a cameraman for Sehari Jadi Warga Kementerian Sekretaris Kabinet - PINALA | SEJIWA #11 
-   - as director and video editor for Sehari Jadi Warga Kementerian Analisis Isu Strategis - Diskusi Publik HAKTP | SEJIWA #13
-   - as a video editor BEM UNSOED REWIND 2022 : KABINET TITIK PIJAR
+   - Motion editor BEM Unsoed logo 2022
+   - Cameraman Teaser Release Kabinet BEM Unsoed 2022 
+   - Cameraman Unsoed Campus Tour 2022 
+   - Director and cameraman Ngabuburit Worth It Berburu Takjil Favorit | EKSKUL#2 
+   - Video editor Opini Kita : Suara Hati Mahasiswa Untuk Rektor Baru 
+   - Director, cameraman, audioperson, and video editor 100 HARI KERJA BEM UNSOED 2022 KABINET TITIK PIJAR 
+   - Cameraman and motion editor COMPANY PROFILE BEM UNSOED 2022: KABINET TITIK PIJAR 
+   - Director and audioperson Teaser Sehari Jadi Warga Kementerian | SEJIWA #0 
+   - Director, cameraman, and video editor Sehari Jadi Warga Kementerian Personalia - Lomba Tujuh Belasan | SEJIWA #1 
+   - Audioperson Sehari Jadi Warga Kementerian Riset dan Data - Apa Kata Responden | SEJIWA #2 
+   - Video editor #5UARA9ENSOED : SAMBUT 59 TAHUN UNSOED 
+   - Cameraman Sehari Jadi Warga Kementerian Dalam Negeri - Roadshow BEM UNSOED X BEM KBMIK | SEJIWA #3 
+   - Cameraman Sehari Jadi Warga Kementerian Pengembangan Sumber Daya Mahasiswa - SOLO 2022 | SEJIWA #5 
+   - Director, cameraman, and video editor Sehari Jadi Warga Kementerian Ekonomi Kreatif Mahasiswa - Workshop Wirausaha | SEJIWA #8 
+   - Director, cameraman, and video editor Sehari Jadi Warga Kementerian Minat dan Bakat - Opening Ceremony PORSOED 2022 | SEJIWA #9 
+   - Cameraman Sehari Jadi Warga Kementerian Sekretaris Kabinet - PINALA | SEJIWA #11 
+   - Director and video editor Sehari Jadi Warga Kementerian Analisis Isu Strategis - Diskusi Publik HAKTP | SEJIWA #13
+   - Video editor BEM UNSOED REWIND 2022 : KABINET TITIK PIJAR
 #### 2. Festival of Student Acceleration (FOSA) Jenderal Soedirman University 2022 | Staff of Design, Decoration, and Documentation |
 Purwokerto, Central Java `Apr'2022 - Nov'2022`
    - Make decorations for photo booth the event,
    - Documenting the event,
    - Providing creative content to support event, promotion event and publish through the media.
 #### Project:
-   - as a motion editor for FOSA 2022 logo
-   - as a motion editor for FOSA 2022 mascot
-   - as cameraman and video editor for ABOUT FOSA : FOSA ITU APASIH? 
-   - as a motion editor for Teaser FOSA 2022 
-   - as a video editor for Videotron FOSA 2022 
+   - Motion editor FOSA 2022 logo, mascot, and teaser
+   - Cameraman and video editor ABOUT FOSA : FOSA ITU APASIH? 
+   - Video editor FOSA 2022 videotron 
 #### 3. Electrical Days 2021 | Staff of Design, Decoration, and Documentation | 
 Purbalingga, Central Java `Jul'2021 - Dec'2021`
    - Documenting the event,
    - Providing creative content to support event, promotion event and publish through the media.
 #### Project
-   - as director, cameraman, and video editor Electrical Days 2021 Teaser
+   - Director, cameraman, and video editor Electrical Days 2021 Teaser
 
 ## Other:
 #### 1. Pekan Olahraga Soedirman (PORSOED) 2022
 #### Project:
-   - as a motion editor PORSOED 2022 mascot
+   - Motion editor PORSOED 2022 mascot
 
 ## Achievments:
 #### 1. [3rd winner of Banjoemas Kota Lama Festival 2021 creation event](https://www.instagram.com/p/CVbUFDqBrtH/) 
