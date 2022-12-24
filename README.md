@@ -55,13 +55,13 @@ Purbalingga, Central Java `Jul'2021 - Dec'2021`
 #####    Project
    - as director, cameraman, and video editor Electrical Days 2021 Teaser
 
-## Achievments:
-#### 1. [3rd winner of Banjoemas Kota Lama Festival 2021 creation event](https://www.instagram.com/p/CVbUFDqBrtH/) 
-
 ## Other:
 #### 1. Pekan Olahraga Soedirman (PORSOED) 2022
 #####    Project:
    - as a motion editor PORSOED 2022 mascot
+
+## Achievments:
+#### 1. [3rd winner of Banjoemas Kota Lama Festival 2021 creation event](https://www.instagram.com/p/CVbUFDqBrtH/) 
 
 ## Portofolio:
 #### 1. [My Video Editing](https://drive.google.com/drive/folders/13dT2_ze9YKIXPoawDuj3Jh1MU1jwz4ER?usp=sharing)
