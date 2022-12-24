@@ -18,7 +18,7 @@
 Purwokerto, Central Java `Feb'2022 - Jan'2023`
    - Produce and publish audio visual content according to journalistic principles,
    - Providing creative content to support educational activities, promotions, and publish through the media,
-#####    Project:
+#### Project:
    - as a motion editor for BEM Unsoed logo 2022
    - as a cameraman for the BEM Unsoed 2022 Cabinet Release Teaser 
    - as a cameraman for Unsoed Campus Tour 2022 
@@ -42,7 +42,7 @@ Purwokerto, Central Java `Apr'2022 - Nov'2022`
    - Make decorations for photo booth the event,
    - Documenting the event,
    - Providing creative content to support event, promotion event and publish through the media.
-#####    Project:
+#### Project:
    - as a motion editor for FOSA 2022 logo
    - as a motion editor for FOSA 2022 mascot
    - as cameraman and video editor for ABOUT FOSA : FOSA ITU APASIH? 
@@ -52,12 +52,12 @@ Purwokerto, Central Java `Apr'2022 - Nov'2022`
 Purbalingga, Central Java `Jul'2021 - Dec'2021`
    - Documenting the event,
    - Providing creative content to support event, promotion event and publish through the media.
-#####    Project
+#### Project
    - as director, cameraman, and video editor Electrical Days 2021 Teaser
 
 ## Other:
 #### 1. Pekan Olahraga Soedirman (PORSOED) 2022
-#####    Project:
+#### Project:
    - as a motion editor PORSOED 2022 mascot
 
 ## Achievments:
