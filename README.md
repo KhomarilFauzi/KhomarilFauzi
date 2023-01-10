@@ -37,7 +37,7 @@ Purwokerto, Central Java `Feb'2022 - Jan'2023`
    - Cameraman Sehari Jadi Warga Kementerian Sekretaris Kabinet - PINALA | SEJIWA #11 
    - Director and video editor Sehari Jadi Warga Kementerian Analisis Isu Strategis - Diskusi Publik HAKTP | SEJIWA #13
    - Video editor BEM UNSOED REWIND 2022 : KABINET TITIK PIJAR
-#### 2. [Festival of Student Acceleration (FOSA) Jenderal Soedirman University 2022 | Staff of Design, Decoration, and Documentation |] (https://drive.google.com/file/d/1Av1wQ7gJ-F4OqehDNudnwZcFTTgBqhtS/view?usp=sharing)
+#### 2. Festival of Student Acceleration (FOSA) Jenderal Soedirman University 2022 | Staff of Design, Decoration, and Documentation |
 Purwokerto, Central Java `Apr'2022 - Nov'2022`
    - Make decorations for photo booth the event
    - Documenting the event
